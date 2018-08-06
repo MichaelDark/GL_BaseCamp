@@ -1,0 +1,7 @@
+AC85EEC4936FD4F1ACD34DADF0509A86156648E3B99CC57D8AE0BE948BC376DA - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+31E38F1257CF0089CB852B8AA4EE1DBDA4E8B1F2E9A196A83A1CDB3BC56DAFB2 - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+23F13C535D7409E70A35B175DE238289548B446843E0A9B7FE5F15C91BAB93A5 - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+3A8B3675E25963B247E460082CF6B6CEEF27BAB247CDF86AA0C15AB4D963E336 - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\test.txt
+file is used - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+file is used - D:\projects\visual_studio\BaseCamp\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+Performance: 1076428 MB / s (by CPU time)

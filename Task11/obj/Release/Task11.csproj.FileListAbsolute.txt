@@ -1,0 +1,6 @@
+D:\projects\visual_studio\BaseCamp\Task11\bin\Release\Task11.exe.config
+D:\projects\visual_studio\BaseCamp\Task11\bin\Release\Task11.exe
+D:\projects\visual_studio\BaseCamp\Task11\bin\Release\Task11.pdb
+D:\projects\visual_studio\BaseCamp\Task11\obj\Release\Task11.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task11\obj\Release\Task11.exe
+D:\projects\visual_studio\BaseCamp\Task11\obj\Release\Task11.pdb

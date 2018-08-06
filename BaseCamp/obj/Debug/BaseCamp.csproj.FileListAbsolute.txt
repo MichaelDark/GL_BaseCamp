@@ -1,0 +1,7 @@
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Debug\BaseCamp.exe.config
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Debug\BaseCamp.exe
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Debug\BaseCamp.pdb
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Debug\BaseCamp.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Debug\BaseCamp.exe
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Debug\BaseCamp.pdb
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Debug\BaseCamp.csprojResolveAssemblyReference.cache

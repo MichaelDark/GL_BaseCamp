@@ -1,0 +1,7 @@
+D:\projects\visual_studio\BaseCamp\Task13\bin\Debug\Task13.exe.config
+D:\projects\visual_studio\BaseCamp\Task13\bin\Debug\Task13.exe
+D:\projects\visual_studio\BaseCamp\Task13\bin\Debug\Task13.pdb
+D:\projects\visual_studio\BaseCamp\Task13\obj\Debug\Task13.csprojResolveAssemblyReference.cache
+D:\projects\visual_studio\BaseCamp\Task13\obj\Debug\Task13.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task13\obj\Debug\Task13.exe
+D:\projects\visual_studio\BaseCamp\Task13\obj\Debug\Task13.pdb

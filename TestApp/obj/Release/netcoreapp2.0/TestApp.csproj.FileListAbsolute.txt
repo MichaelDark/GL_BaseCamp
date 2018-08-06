@@ -1,0 +1,10 @@
+D:\projects\visual_studio\BaseCamp\TestApp\bin\Release\netcoreapp2.0\TestApp.deps.json
+D:\projects\visual_studio\BaseCamp\TestApp\bin\Release\netcoreapp2.0\TestApp.runtimeconfig.json
+D:\projects\visual_studio\BaseCamp\TestApp\bin\Release\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+D:\projects\visual_studio\BaseCamp\TestApp\bin\Release\netcoreapp2.0\TestApp.dll
+D:\projects\visual_studio\BaseCamp\TestApp\bin\Release\netcoreapp2.0\TestApp.pdb
+D:\projects\visual_studio\BaseCamp\TestApp\obj\Release\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\TestApp\obj\Release\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+D:\projects\visual_studio\BaseCamp\TestApp\obj\Release\netcoreapp2.0\TestApp.AssemblyInfo.cs
+D:\projects\visual_studio\BaseCamp\TestApp\obj\Release\netcoreapp2.0\TestApp.dll
+D:\projects\visual_studio\BaseCamp\TestApp\obj\Release\netcoreapp2.0\TestApp.pdb

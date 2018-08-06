@@ -1,0 +1,7 @@
+D:\projects\visual_studio\BaseCamp\Task15\bin\Debug\Task15.exe.config
+D:\projects\visual_studio\BaseCamp\Task15\bin\Debug\Task15.exe
+D:\projects\visual_studio\BaseCamp\Task15\bin\Debug\Task15.pdb
+D:\projects\visual_studio\BaseCamp\Task15\obj\Debug\Task15.csprojResolveAssemblyReference.cache
+D:\projects\visual_studio\BaseCamp\Task15\obj\Debug\Task15.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task15\obj\Debug\Task15.exe
+D:\projects\visual_studio\BaseCamp\Task15\obj\Debug\Task15.pdb

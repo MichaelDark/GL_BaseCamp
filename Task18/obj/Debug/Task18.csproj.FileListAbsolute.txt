@@ -1,0 +1,6 @@
+D:\projects\visual_studio\BaseCamp\Task18\bin\Debug\Task18.exe.config
+D:\projects\visual_studio\BaseCamp\Task18\bin\Debug\Task18.exe
+D:\projects\visual_studio\BaseCamp\Task18\bin\Debug\Task18.pdb
+D:\projects\visual_studio\BaseCamp\Task18\obj\Debug\Task18.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task18\obj\Debug\Task18.exe
+D:\projects\visual_studio\BaseCamp\Task18\obj\Debug\Task18.pdb

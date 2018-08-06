@@ -1,0 +1,7 @@
+D:\projects\visual_studio\BaseCamp\Task17_1\bin\Debug\Task17_1.exe.config
+D:\projects\visual_studio\BaseCamp\Task17_1\bin\Debug\Task17_1.exe
+D:\projects\visual_studio\BaseCamp\Task17_1\bin\Debug\Task17_1.pdb
+D:\projects\visual_studio\BaseCamp\Task17_1\obj\Debug\Task17_1.csprojResolveAssemblyReference.cache
+D:\projects\visual_studio\BaseCamp\Task17_1\obj\Debug\Task17_1.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task17_1\obj\Debug\Task17_1.exe
+D:\projects\visual_studio\BaseCamp\Task17_1\obj\Debug\Task17_1.pdb

@@ -1,0 +1,6 @@
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Release\BaseCamp.exe.config
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Release\BaseCamp.exe
+D:\projects\visual_studio\BaseCamp\BaseCamp\bin\Release\BaseCamp.pdb
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Release\BaseCamp.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Release\BaseCamp.exe
+D:\projects\visual_studio\BaseCamp\BaseCamp\obj\Release\BaseCamp.pdb

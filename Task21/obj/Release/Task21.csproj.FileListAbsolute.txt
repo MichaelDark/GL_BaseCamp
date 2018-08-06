@@ -1,0 +1,6 @@
+D:\projects\visual_studio\BaseCamp\Task21\bin\Release\Task21.exe.config
+D:\projects\visual_studio\BaseCamp\Task21\bin\Release\Task21.exe
+D:\projects\visual_studio\BaseCamp\Task21\bin\Release\Task21.pdb
+D:\projects\visual_studio\BaseCamp\Task21\obj\Release\Task21.csproj.CoreCompileInputs.cache
+D:\projects\visual_studio\BaseCamp\Task21\obj\Release\Task21.exe
+D:\projects\visual_studio\BaseCamp\Task21\obj\Release\Task21.pdb
