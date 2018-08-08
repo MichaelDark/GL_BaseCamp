@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\visual_studio\\BaseCamp\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\projects\\visual_studio\\GL_BaseCamp\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "D:\\projects\\visual_studio\\BaseCamp\\TestApp\\TestApp.csproj",
+      "projectPath": "D:\\projects\\visual_studio\\GL_BaseCamp\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\Mykhailo Temnokhud\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\visual_studio\\BaseCamp\\TestApp\\obj\\",
+      "outputPath": "D:\\projects\\visual_studio\\GL_BaseCamp\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
